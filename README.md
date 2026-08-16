@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="images/banner.svg" alt="S A M I R - Code. Create. Repeat." width="100%" />
+# S A M I R
+
+**Code. Create. Repeat.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Developer;Python+Enthusiast;Student+%26+Lifelong+Learner" alt="Typing SVG" />
 
