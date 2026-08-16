@@ -1,13 +1,19 @@
 <div align="center">
 
+<img src="images/divider.svg" alt="divider" width="100%" />
+
 # S A M I R
 
-**Code. Create. Repeat.**
+**Making the internet a cuter place, one line of code at a time.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Developer;Python+Enthusiast;Student+%26+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=520&height=50&lines=hi+there,+i+love+learning;web+developer+in+the+making;python+enthusiast+from+Dhaka" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/its-samir20?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/its-samir20)
-[![Profile Views](https://komarev.com/ghpvc/?username=its-samir20&style=for-the-badge&color=38BDF8)](https://github.com/its-samir20)
+<img src="images/divider.svg" alt="divider" width="100%" />
+
+[![GitHub followers](https://img.shields.io/github/followers/its-samir20?style=for-the-badge&logo=github&label=Followers&color=F9A8D4)](https://github.com/its-samir20)
+[![Profile Views](https://komarev.com/ghpvc/?username=its-samir20&style=for-the-badge&color=C4B5FD)](https://github.com/its-samir20)
+
+</div>
 
 ---
 
@@ -15,9 +21,9 @@
 
 ```
 Student
-Learning Web Development & Python
-Building projects that solve real problems
-Exploring new technologies every day
+Dreaming in HTML, CSS & JavaScript
+Coding cuddles in Python
+Exploring new things, one commit at a time
 ```
 
 ---
@@ -34,7 +40,7 @@ Exploring new technologies every day
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=its-samir20&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=its-samir20&theme=kitten&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
 
 ---
 
@@ -43,15 +49,15 @@ Exploring new technologies every day
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=its-samir20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=its-samir20&show_icons=true&theme=holi&count_private=true&hide_border=true" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-samir20&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-samir20&layout=compact&theme=holi&hide_border=true" alt="Top languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-samir20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-samir20&theme=radical&hide_border=true" alt="GitHub streak" />
     </td>
   </tr>
 </table>
@@ -64,31 +70,6 @@ Exploring new technologies every day
 
 ---
 
-## Live Analytics
-
-### Ryze Game Launcher
-
-<table>
-  <tr>
-    <th>Star History</th>
-    <th>Activity Trends</th>
-  </tr>
-  <tr>
-    <td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Star History"></td>
-    <td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Activity Trends"></td>
-  </tr>
-  <tr>
-    <th>Performance Stats - Last 28 days</th>
-    <th>Star Geographic Distribution</th>
-  </tr>
-  <tr>
-    <td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Performance Stats"></td>
-    <td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=1327773316&image_size=auto" alt="Star Geographic Distribution"></td>
-  </tr>
-</table>
-
----
-
 ## Featured Projects
 
 <table align="center">
@@ -98,13 +79,13 @@ Exploring new technologies every day
       <p>A modern Windows game launcher with Discord rich presence, auto-updates and a built-in game store.</p>
       <p>
         <a href="https://github.com/its-samir20/ryze-game-launcher">
-          <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/View_Project-F9A8D4?style=for-the-badge" />
         </a>
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>More coming soon...</h3>
-      <p>Stay tuned for new projects!</p>
+      <h3>Coming soon...</h3>
+      <p>New projects are brewing!</p>
     </td>
   </tr>
 </table>
@@ -114,14 +95,14 @@ Exploring new technologies every day
 ## Contact
 
 <p align="center">
-  <a href="mailto:samircloud.professonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/its-samir20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/its_not_samir_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/its.not.samir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:samircloud.professonal@gmail.com"><img src="https://img.shields.io/badge/Gmail-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/its-samir20"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/its_not_samir_/"><img src="https://img.shields.io/badge/Instagram-A7F3D0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/its.not.samir"><img src="https://img.shields.io/badge/Facebook-93C5FD?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
----
-
 <div align="center">
-  <b>Thanks for visiting my profile!</b>
+  <img src="images/divider.svg" alt="divider" width="100%" />
+  <br/>
+  <b>Thanks for stopping by. Stay soft, stay kind.</b>
 </div>
