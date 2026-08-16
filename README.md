@@ -64,6 +64,31 @@ Exploring new technologies every day
 
 ---
 
+## Live Analytics
+
+### Ryze Game Launcher
+
+<table>
+  <tr>
+    <th>Star History</th>
+    <th>Activity Trends</th>
+  </tr>
+  <tr>
+    <td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Star History"></td>
+    <td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Activity Trends"></td>
+  </tr>
+  <tr>
+    <th>Performance Stats - Last 28 days</th>
+    <th>Star Geographic Distribution</th>
+  </tr>
+  <tr>
+    <td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1327773316&image_size=auto" alt="Performance Stats"></td>
+    <td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=1327773316&image_size=auto" alt="Star Geographic Distribution"></td>
+  </tr>
+</table>
+
+---
+
 ## Featured Projects
 
 <table align="center">
