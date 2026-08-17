@@ -64,9 +64,7 @@ Exploring new things, one commit at a time
 
 ---
 
-## 3D Contribution Graph
-
-<img src="https://raw.githubusercontent.com/its-samir20/its-samir20/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%" />
+<img src="images/wave.svg" alt="wave" width="100%" />
 
 ---
 

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+  <defs>
+    <clipPath id="clip"><rect x="0" y="0" width="900" height="100"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <g opacity="0.4">
+      <path d="M0,55 C112,15 225,85 337,55 C450,25 562,85 675,55 C787,25 900,85 1012,55 C1125,25 1237,85 1350,55 C1462,25 1575,85 1687,55 C1800,25 1912,85 2025,55 L2025,100 L0,100Z" fill="#F9A8D4"/>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-900,0" dur="12s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g clip-path="url(#clip)">
+    <g opacity="0.35">
+      <path d="M0,60 C150,25 300,90 450,60 C600,30 750,90 900,60 C1050,30 1200,90 1350,60 C1500,30 1650,90 1800,60 C1950,30 2100,90 2250,60 L2250,100 L0,100Z" fill="#C4B5FD"/>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-900,0" dur="8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g clip-path="url(#clip)">
+    <g opacity="0.35">
+      <path d="M0,70 C180,35 360,95 540,70 C720,45 900,95 1080,70 C1260,45 1440,95 1620,70 C1800,45 1980,95 2160,70 C2340,45 2520,95 2700,70 L2700,100 L0,100Z" fill="#A7F3D0"/>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-900,0" dur="16s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
